@@ -10,3 +10,5 @@ resource "aws_instance" "web" {
     key_name = aws_key_pair.key-tf.key_name
     
 }
+
+
